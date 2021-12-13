@@ -1,1 +1,1 @@
-# Pruefungsaufgabe_DS_Andr-_Amann
+# Pruefungsaufgabe_DS_André_Amann
